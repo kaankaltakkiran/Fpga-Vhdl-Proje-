@@ -1,0 +1,29 @@
+Command line:
+   test_esitlikk_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  57026
+
+Fri May 20 11:41:39 2022
+
+
+ Elaboration Time: 0.03125 sec
+
+ Current Memory Usage: 821.826 Meg
+
+ Total Signals          : 9
+ Total Nets             : 21
+ Total Signal Drivers   : 5
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 2
+ Total Traceable Variables  : 8
+ Total Scalar Nets and Variables : 381
+Total Line Count : 12
+
+ Total Simulation Time: 0.984375 sec
+
+ Current Memory Usage: 664.277 Meg
+
+Fri May 20 11:42:47 2022
+

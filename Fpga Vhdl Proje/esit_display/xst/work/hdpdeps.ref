@@ -1,0 +1,14 @@
+V3 7
+FL C:/Users/kaan_/Desktop/proje/esit_display/esit.vhd 2022/05/18.19:30:44 P.20131013
+EN work/esit 1652891447 FL C:/Users/kaan_/Desktop/proje/esit_display/esit.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/esit/Behavioral 1652891448 \
+      FL C:/Users/kaan_/Desktop/proje/esit_display/esit.vhd EN work/esit 1652891447
+FL C:/Users/kaan_/Desktop/proje/esit_display/esita.vhd 2022/05/20.14:15:32 P.20131013
+FL "C:/Users/kaan_/Desktop/proje/fpga proje/esit_display/esita.vhd" 2022/05/20.19:04:04 P.20131013
+EN work/esita 1653062934 \
+      FL "C:/Users/kaan_/Desktop/proje/fpga proje/esit_display/esita.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/esita/Behavioral 1653062935 \
+      FL "C:/Users/kaan_/Desktop/proje/fpga proje/esit_display/esita.vhd" \
+      EN work/esita 1653062934

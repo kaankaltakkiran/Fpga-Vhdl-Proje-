@@ -1,0 +1,21 @@
+Running: D:\14.7\ISE_DS\ISE\bin\nt\unwrapped\fuse.exe -intstyle ise -incremental -o C:/Users/kaan_/Desktop/proje/esit_display/test_esitlikk_isim_beh.exe -prj C:/Users/kaan_/Desktop/proje/esit_display/test_esitlikk_beh.prj work.test_esitlikk 
+ISim P.20131013 (signature 0x8ef4fb42)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Parsing VHDL file "C:/Users/kaan_/Desktop/proje/esit_display/esita.vhd" into library work
+Parsing VHDL file "C:/Users/kaan_/Desktop/proje/esit_display/test_esitlikk.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 159780 KB
+Fuse CPU Usage: 156 ms
+Compiling package standard
+Compiling package std_logic_1164
+Compiling architecture behavioral of entity esita [esita_default]
+Compiling architecture behavior of entity test_esitlikk
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 5 VHDL Units
+Built simulation executable C:/Users/kaan_/Desktop/proje/esit_display/test_esitlikk_isim_beh.exe
+Fuse Memory Usage: 171656 KB
+Fuse CPU Usage: 218 ms
